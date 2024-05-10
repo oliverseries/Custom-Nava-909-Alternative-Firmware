@@ -1,9 +1,9 @@
-# Custom Nava 909 Alternative Firmware
+# Nava 909 Custom Firmware
 
 ## Description
 
 This is a fork of the alternative Nava 909 firmware by sandormatyi which can be found [here](https://pages.github.com/](https://github.com/sandormatyi/Nava-909-firmware
-).
+). It has a couple additional features and minor fixes.
 
 ## New features
 
