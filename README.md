@@ -28,6 +28,7 @@ Here is how I do it using MIDI SysEx:
 2) Open a command line interface at the root of the repository and execute the following command (I use Python 2.7 so it probably doesn't work with 3.x right off the bat):
 
 `python tools/hex2sysex/hex2sysex.py -o Nava_v1_028beta/build/MightyCore.avr.1284/firmware.syx Nava_v1_028beta/build/MightyCore.avr.1284/Nava_v1_028beta.ino.with_bootloader.hex -s`
+
 3) Open MIDI-OX, set the SysEx buffer size to 64 bytes
 4) Turn on the Nava with the step buttons 1, 3 and 5 pressed
 5) Send the `firmware.syx` file to the MIDI input of the Nava (this will take a couple minutes, you should see the step buttons showing the progress)
