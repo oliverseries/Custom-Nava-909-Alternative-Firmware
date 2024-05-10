@@ -10,7 +10,7 @@ This is a fork of the alternative Nava 909 firmware by sandormatyi which can be 
 - 0-100 probability control per instrument per step for triggering
 - A note ratcheting function which also operates per instrument per step.
 - Fixed accent triggering bug caused by poor implementation of timing control of DEMUX INHIBIT signals for the instrument trigger and accent trigger 4051 ICs.
-- Slight modification of original codebase to improve adherence to software design principles.
+- Mild modifications of original codebase to improve adherence to software design principles.
 
 ## Setup the development environment
 
